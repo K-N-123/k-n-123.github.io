@@ -1,12 +1,21 @@
-header{
-	background-color: blue
+@charset "UTF-8";
+
+body{
+	font-family: "arial", "游ゴシック", "ヒラギノ角ゴ Pro";
+	background-color: #505050;
+	color: #FFFFFF;
 }
 
+header{
+
+}
 
 h1{
-	
+	font-size: 50px;
+	color: #CCCC00;
 }
 
-
-
+a{
+	color: #AAAAFF
+}
 
