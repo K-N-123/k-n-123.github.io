@@ -2,20 +2,34 @@
 
 body{
 	font-family: "arial", "游ゴシック", "ヒラギノ角ゴ Pro";
-	background-color: #505050;
-	color: #FFFFFF;
 }
 
 header{
-
+	background-color: #303030;
+	margin-right: 20px;
+	margin-left:  20px;
 }
+
+div{
+	background-color: #CCCCCC;
+		margin-right: 20px;
+		margin-left:  20px;
+}
+
+/*
+ul{
+	background-color: #FFFFFF;
+		margin-right: 10px;
+		margin-left:  10px;
+}
+*/
 
 h1{
 	font-size: 50px;
-	color: #CCCC00;
+	color: #FFFFFF;
 }
 
 a{
-	color: #AAAAFF
+	
 }
 
